@@ -1,0 +1,22 @@
+@relation weather.symbolic-weka.filters.unsupervised.attribute.Remove-R1
+
+@attribute temperature {hot,mild,cool}
+@attribute humidity {high,normal}
+@attribute windy {TRUE,FALSE}
+@attribute play {yes,no}
+
+@data
+hot,high,FALSE,no
+hot,high,TRUE,no
+hot,high,FALSE,yes
+mild,high,FALSE,yes
+cool,normal,FALSE,yes
+cool,normal,TRUE,no
+cool,normal,TRUE,yes
+mild,high,FALSE,no
+cool,normal,FALSE,yes
+mild,normal,FALSE,yes
+mild,normal,TRUE,yes
+mild,high,TRUE,yes
+hot,normal,FALSE,yes
+mild,high,TRUE,no
