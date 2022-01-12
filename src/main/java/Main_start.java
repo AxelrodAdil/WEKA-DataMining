@@ -31,6 +31,10 @@ public class Main_start {
             System.out.println("... Filters.CrossValidation.method() ...");
             Filters.CrossValidation.method();
             sleep();
+
+	    System.out.println("... Filters.IBK_KNN.method() ...");
+            Filters.IBK_KNN.method();
+            sleep();
             // *** ***
 
             System.out.println("... methods.Sparse.method() ...");
