@@ -4,3 +4,4 @@
 ## Images (WEKA GUI)
 ![](/img/b_diabetes.PNG)
 ![](/img/b_j48.PNG)
+![](/img/c_Ibk_lazy.PNG)
