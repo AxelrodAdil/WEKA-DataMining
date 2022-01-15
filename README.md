@@ -5,3 +5,5 @@
 ![](/img/b_diabetes.PNG)
 ![](/img/b_j48.PNG)
 ![](/img/c_Ibk_lazy.PNG)
+![](/img/c_10.PNG)
+![](/img/c_150.PNG)
