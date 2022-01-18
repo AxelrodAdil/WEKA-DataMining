@@ -15,3 +15,6 @@
 ![](/img/a_Euclidean_clustering.PNG)
 ![](/img/Picture1.png)
 ![](/img/a_EM_clustering.PNG)
+
+
+In the code where it is written that "Path...", write your path to the weka files.
